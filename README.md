@@ -1,10 +1,10 @@
-# Formula 1 Informational Website 🏎️
+# Formula 1 Informational Website
 
 An interactive, multi-page website built using **HTML, CSS, and Vanilla JavaScript**. This project explains key aspects of Formula 1 such as race weekends, Sprint races, tyre compounds, and teams, while focusing on clean UI, animations, and dynamic content.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This website serves as an educational and engaging guide to Formula 1. It combines static content with dynamic JavaScript-driven interactions such as scroll-based animations, theme changes, and data-driven team pages.
 
@@ -12,7 +12,7 @@ The project is fully frontend-based.
 
 ---
 
-### 🏠 Homepage (index.html)
+### Homepage (index.html)
 
 * Introduction to Formula 1
   
@@ -24,7 +24,7 @@ The project is fully frontend-based.
   
 * Smooth UI transitions
 
-### ⚡ F1 Sprint Page
+### F1 Sprint Page
 
 * Explains Sprint race format
   
@@ -32,7 +32,7 @@ The project is fully frontend-based.
   
 * Clean minimal layout
 
-### 🛞 Tyres Page (Pirelli)
+### Tyres Page (Pirelli)
 
 * Interactive image gallery
   
@@ -42,7 +42,7 @@ The project is fully frontend-based.
   
 * Compound cards (C1–C6)
 
-### 🏁 Teams Page
+### Teams Page
 
 * Displays all current F1 teams
   
@@ -50,7 +50,7 @@ The project is fully frontend-based.
   
 * Gradient-based team branding
 
-### 🧩 Dynamic Team Page
+### Dynamic Team Page
 
 * Loads team data using URL parameters
   
@@ -62,7 +62,7 @@ The project is fully frontend-based.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **HTML5** – Semantic structure
 * **CSS3** – Flexbox, Grid, Animations, Gradients
@@ -75,17 +75,7 @@ The project is fully frontend-based.
 
 ---
 
-## 🚀 How to Run
-
-1. Download or clone the repository
-2. Open `index.html` in any modern web browser
-3. Navigate using internal links
-
-> No installation or server required
-
----
-
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Building multi-page websites
 * Scroll-based animations
@@ -95,22 +85,8 @@ The project is fully frontend-based.
 
 ---
 
-## 📌 Future Improvements
-
-* Add mobile responsiveness
-* Add driver profiles
-* Improve accessibility (ARIA labels)
-* Convert to React or add backend integration
-
----
-
-## 📜 Disclaimer
+## Disclaimer
 
 This project is for **educational purposes only**. All trademarks, logos, and names related to Formula 1 belong to their respective owners.
 
 ---
-
-## 👨‍💻 Author
-
-**Abhishek Subramanian**
-Frontend Web Development Project
