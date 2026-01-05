@@ -88,17 +88,7 @@ The project is fully frontend-based.
 
 ---
 
-## Learning Outcomes
-
-* Building multi-page websites
-* Scroll-based animations
-* Dynamic content rendering using JavaScript objects
-* Clean project structuring
-* Real-world themed UI/UX design
-
----
-
-## Disclaimer
+## Credits
 
 This project is for **educational purposes only**. All trademarks, logos, and names related to Formula 1 belong to their respective owners.
 
