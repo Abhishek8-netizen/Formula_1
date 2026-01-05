@@ -25,7 +25,9 @@ The project is fully frontend-based.
   
 * Smooth UI transitions
 
-<br> ### F1 Sprint Page
+<br>
+
+### F1 Sprint Page
 ![Sprint Page](Pictures/f1SprintHomepage.png)
 
 * Explains Sprint race format
